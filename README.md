@@ -13,5 +13,4 @@ My page is **updating...**
   <li>Tailwind</li>
 </ul>
 </ul>
----
 <img src="https://github-readme-stats.vercel.app/api?username=ebrahim-ebrahimi&show_icons=true&theme=radical">
