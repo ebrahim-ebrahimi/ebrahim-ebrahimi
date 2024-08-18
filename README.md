@@ -1,16 +1,18 @@
-## Hi there 👋
-
-<!--
-**ebrahim-ebrahimi/ebrahim-ebrahimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My page is **updating...**
+---
+👋 Hi, I'm `Ebrahim`, a passionate `front-end developer` with a deep love for learning and exploring the endless possibilities of code.
+> My background in computer science fuels my curiosity, and I'm always eager to expand my knowledge and skills. I believe in the power of collaboration and am always looking to connect with fellow developers and learners who share my enthusiasm. Let's grow together, share experiences, and build something extraordinary.
+---
+<img src="https://img.shields.io/badge/Html-orange">
+### Skill : 
+<ul><li>Front End</li>
+  <ul>
+  <li>Html</li>
+  <li>Css</li>
+  <li>Java Script</li>
+  <li>Bootstrap</li>
+  <li>Tailwind</li>
+</ul>
+</ul>
+---
+<img src="https://github-readme-stats.vercel.app/api?username=ebrahim-ebrahimi&show_icons=true&theme=radical">
