@@ -3,7 +3,6 @@ My page is **updating...**
 👋 Hi, I'm `Ebrahim`, a passionate `front-end developer` with a deep love for learning and exploring the endless possibilities of code.
 > My background in computer science fuels my curiosity, and I'm always eager to expand my knowledge and skills. I believe in the power of collaboration and am always looking to connect with fellow developers and learners who share my enthusiasm. Let's grow together, share experiences, and build something extraordinary.
 ---
-<img src="https://img.shields.io/badge/Html-orange">
 ### Skill : 
 <ul><li>Front End</li>
   <ul>
